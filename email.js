@@ -7,7 +7,7 @@ const nodemailer = require("Nodemailer");
  // authentication 
 auth :{
 	user : "mahi.rajput@appinventiv.com",
-	pass :  " App@@2025#"
+	pass :  "ghbbjbjbjb "
 
 } ,
  });
